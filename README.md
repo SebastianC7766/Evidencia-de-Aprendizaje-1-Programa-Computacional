@@ -2,9 +2,9 @@
 
 ## Teoría de Autómatas -- Lenguaje Regular
 
-**Materia:** Teoría de Autómatas
-**Profesor:** Dr. Yazmany Jahaziel Guerrero Ceja
-**Actividad:** Evidencia de Aprendizaje 1
+**Materia:** Teoría de Autómatas\
+**Profesor:** Dr. Yazmany Jahaziel Guerrero Ceja\
+**Actividad:** Evidencia de Aprendizaje 1\
 **Modalidad:** Trabajo en equipo
 
 ------------------------------------------------------------------------
@@ -84,9 +84,7 @@ Se deberá entregar una carpeta comprimida que contenga:
 -   La entrega será **en equipo**.
 -   Solo **un integrante** deberá subir la evidencia.
 -   Todos los archivos deberán comprimirse dentro de una carpeta llamada **ÚNICAMENTE con el número del equipo**.
--   El nombre del ejecutable y del manual deberá ser:
-
-    TA 033 EA1 E#
+-   El nombre del ejecutable y del manual deberá ser: **TA 033 EA1 E#**
 
 Donde `#` corresponde al número de equipo asignado.
 
